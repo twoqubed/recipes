@@ -1,11 +1,25 @@
 <html>
 	
 	<head>
-		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
 		<link rel="stylesheet"href="./recipes.css" >
 	</head>
 	
 	<body>
+
+		<div id="recipes">
+		</div>
+
+		<script id="recipes-template" type="text/template">
+		  {{#recipes}}
+		  <h1 class="title">{{name}}</h1>
+		  {{/recipes}}
+		</script>
+
+<!--
 		<h1 class="title">General's Rice</h1>
 		<h2 class="title">Ingredients</h2>
 		<ul class="ingredients">
@@ -20,6 +34,15 @@
 		<ol class="directions">
 			<li>Bake at 425 for 35-45 minutes.</li>
 		</ol>
+-->
+
+		<script type="text/javascript">
+			$.getJSON('js/recipes.json', function(data) {
+				var template = $('#recipes-template').html();
+				var html = Mustache.to_html(template, data);
+				$('#recipes').html(html);
+			}); 	
+		</script>
 	</body>
 
 </html>
