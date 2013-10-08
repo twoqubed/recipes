@@ -15,7 +15,22 @@
 
 		<script id="recipes-template" type="text/template">
 		  {{#recipes}}
-		  <h1 class="title">{{name}}</h1>
+		  <h1>{{name}}</h1>
+		  
+		  <h2>Ingredients</h1>
+		  <ul class="ingredients">
+		  	{{#ingredients}}
+		  		<li>{{.}}</li>
+		  	{{/ingredients}}
+		  </ul>
+		  
+		  <h2>Directions</h1>
+		  <ol class="directions">
+		  	{{#directions}}
+		  		<li>{{.}}</li>
+		  	{{/directions}}
+		  </ol>
+
 		  {{/recipes}}
 		</script>
 
