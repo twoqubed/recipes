@@ -5,7 +5,7 @@
 		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
 
 		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
-		<link rel="stylesheet"href="./recipes.css" >
+		<link rel="stylesheet"href="recipes.css" >
 	</head>
 	
 	<body>
@@ -52,7 +52,7 @@
 -->
 
 		<script type="text/javascript">
-			$.getJSON('js/recipes.json', function(data) {
+			$.getJSON('recipes.json', function(data) {
 				var template = $('#recipes-template').html();
 				var html = Mustache.to_html(template, data);
 				$('#recipes').html(html);

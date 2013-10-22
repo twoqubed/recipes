@@ -2,7 +2,18 @@
 
 rm -Rf mkdir .gh-pages
 mkdir .gh-pages
-cp  -r index.html js .gh-pages
+cp  index.html .gh-pages
+cp  recipes.css .gh-pages
+
+echo '{ "recipes" : [' > .gh-pages/recipes.json
+
+for file in js/*.json ; do 
+  cat $file >> .gh-pages/recipes.json
+  echo "," >> .gh-pages/recipes.json
+done
+
+echo ']}' >> .gh-pages/recipes.json
+
 cd .gh-pages
 git init
 git remote add origin git@github.com:twoqubed/recipes.git
