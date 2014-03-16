@@ -3,7 +3,8 @@
 rm -Rf .gh-pages
 mkdir .gh-pages
 cd .gh-pages
-git clone origin git@github.com:twoqubed/recipes.git
+git clone git@github.com:twoqubed/recipes.git
+git checkout gh-pages
 cp ../index.html .
 cp ../recipes.css /
 
