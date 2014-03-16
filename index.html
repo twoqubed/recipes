@@ -52,7 +52,7 @@
 -->
 
 		<script type="text/javascript">
-			$.getJSON('recipes.json', function(data) {
+			$.getJSON('js/recipes.json', function(data) {
 				var template = $('#recipes-template').html();
 				var html = Mustache.to_html(template, data);
 				$('#recipes').html(html);
