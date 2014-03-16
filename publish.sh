@@ -1,20 +1,21 @@
 #!/bin/bash
 
-rm -Rf mkdir .gh-pages
-git clone origin git@github.com:twoqubed/recipes.git .gh-pages
-cp index.html .gh-pages
-cp recipes.css .gh-pages
+rm -Rf .gh-pages
+mkdir .gh-pages
+cd .gh-pages
+git clone origin git@github.com:twoqubed/recipes.git
+cp ../index.html .
+cp ../recipes.css /
 
-echo '{ "recipes" : [' > .gh-pages/recipes.json
+echo '{ "recipes" : [' > recipes.json
 
-for file in js/*.json ; do 
-  cat $file >> .gh-pages/recipes.json
-  echo "," >> .gh-pages/recipes.json
+for file in ../js/*.json ; do 
+  cat $file >> recipes.json
+  echo "," >> recipes.json
 done
 
-echo ']}' >> .gh-pages/recipes.json
+echo ']}' >> recipes.json
 
-cd .gh-pages
 git status
 git add .
 git commit -am "Updating site"
