@@ -1,8 +1,7 @@
 #!/bin/bash
 
 rm -Rf site
-git clone git@github.com:twoqubed/recipes.git site
-cd site && git fetch && git checkout gh-pages && cd ..
+git clone --branch gh-pages git@github.com:twoqubed/recipes.git site
 
 exec ./site.sh
 
