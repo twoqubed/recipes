@@ -1,0 +1,8 @@
+{
+  "name": "recipes",
+  "version": "0.9.0",
+  "devDependencies": {
+    "grunt": "0.4.4",
+    "grunt-merge-json": "0.9.4"
+  }
+}
