@@ -5,5 +5,6 @@ git clone --branch gh-pages git@github.com:twoqubed/recipes.git site
 
 npm install
 grunt merge-json
+cp -r static/* site/.
 
 cd site && git commit -am "Updating site" && git push origin gh-pages && cd ..
