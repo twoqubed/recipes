@@ -5,7 +5,7 @@ module.exports = function(grunt){
   grunt.initConfig({
     "merge-json": {
       "en": {
-        src: [ "public/js/*.json" ],
+        src: [ "json/*.json" ],
         dest: "site/recipes.js"
       }
     }
