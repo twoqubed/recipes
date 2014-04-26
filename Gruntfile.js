@@ -6,7 +6,7 @@ module.exports = function(grunt){
     "merge-json": {
       "en": {
         src: [ "public/js/*.json" ],
-        dest: "site/js/recipes.json"
+        dest: "site/recipes.js"
       }
     }
   });
