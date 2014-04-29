@@ -1,7 +1,7 @@
 module.exports = function(grunt){
 
-  grunt.task.loadNpmTasks("grunt-merge-json")
-
+  require('load-grunt-tasks')(grunt);
+  
   grunt.initConfig({
     "merge-json": {
       "en": {
