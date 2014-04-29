@@ -2,18 +2,16 @@
   "name": "recipes",
   "description": "My Favoriate Recipes",
   "version": "0.9.0",
-
-  "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/twoqubed/recipes"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/twoqubed/recipes"
   },
-
-  "dependencies" : {
-    "express" : "4.1.0"
+  "dependencies": {
+    "express": "4.1.0"
   },
-
   "devDependencies": {
     "grunt": "0.4.4",
-    "grunt-merge-json": "0.9.4"
+    "grunt-merge-json": "0.9.4",
+    "grunt-express-server": "^0.4.17"
   }
 }

@@ -1,45 +1,30 @@
-<html>
-	
+<html ng-app="recipeApp">
+
 	<head>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
-		<script type="text/javascript" src="recipes.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+		<script src="/recipes/js/controllers.js"></script>
 
-		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
-		<link rel="stylesheet"href="recipes.css" >
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/recipes/recipes.css" >
 	</head>
-	
-	<body>
 
-		<div id="recipes">
-		</div>
+	<body ng-controller="RecipeController">
 
-		<script id="recipes-template" type="text/template">
-		  {{#recipes}}
+		<div ng-repeat="(name, recipe) in recipes">
 		  <h1>{{name}}</h1>
-		  
+
 		  <h2>Ingredients</h1>
+
 		  <ul class="ingredients">
-		  	{{#ingredients}}
-		  		<li>{{.}}</li>
-		  	{{/ingredients}}
+		  	<li ng-repeat="ingredient in recipe.ingredients">{{ingredient}}</li>
 		  </ul>
-		  
+
 		  <h2>Directions</h1>
+
 		  <ol class="directions">
-		  	{{#directions}}
-		  		<li>{{.}}</li>
-		  	{{/directions}}
+		  	<li ng-repeat="direction in recipe.directions">{{direction}}</li>
 		  </ol>
 
-		  {{/recipes}}
-		</script>
-
-		<script type="text/javascript">
-			var template = $('#recipes-template').html();
-			var html = Mustache.to_html(template, recipes);
-			$('#recipes').html(html);
-		</script>
 	</body>
 
 </html>
