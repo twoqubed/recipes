@@ -3,7 +3,7 @@
 rm -Rf site
 mkdir -p site
 git clone --branch gh-pages git@github.com:twoqubed/recipes.git site/recipes
-rm -Rf site/recipt/*
+rm -Rf site/recipe/*
 
 npm install
 grunt merge-json
