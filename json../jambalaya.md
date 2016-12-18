@@ -1,4 +1,4 @@
-# Crock Pot Jambalaya" : {
+# Crock Pot Jambalaya
 
 ## Ingredients
 
