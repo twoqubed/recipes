@@ -19,4 +19,4 @@
 1. Saute the ground beef.
 2. And onion and saute until tender.
 3. A water, tomato sauce, Rotel tomatoes, garlic, seasonings, and sauces. Stir well. Place lid on pot and simmer for 20-25 minutes.
-4. Add the _uncooked_ macaroni, stir well, and return the lid to the pot. Let simmer for 20 minutes. Turn off hear, remove may leaf, and allow to sit for 30 mintues before serving.
+4. Add the _uncooked_ macaroni, stir well, and return the lid to the pot. Let simmer for 20 minutes. Turn off hear, remove bay leaf, and allow to sit for 30 mintues before serving.
