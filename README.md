@@ -1,6 +1,9 @@
 # Recipes
 
-Publishing my favorites recipes for a couple of reasons:
+[Chili](chili.md)
 
-1. Have my recipes accessible online
-2. Futz around with new technologies
+[General's Rice](generals-rice.md)
+
+[Goulash](goulash.md)
+
+[Jambalaya](jambalaya.md)
