@@ -4,27 +4,27 @@
 
 ### For Meat Mixture
 
-1 tbsp olive oil
-1 1/4 lb ground beef lean
-1/2 tsp salt or to taste
-1/2 tsp pepper or to taste
-1 large onion chopped
-1 clove garlic minced
-1/2 tsp red pepper flakes
-2 tbsp Worcestershire sauce
-1.9 oz onion soup mix I used Knorr, 55g pkg
-1 cup beef broth
-2 cups frozen veggies I used mix of peas, carrots, green beans and corn
+* 1 tbsp olive oil
+* 1 1/4 lb ground beef lean
+* 1/2 tsp salt or to taste
+* 1/2 tsp pepper or to taste
+* 1 large onion chopped
+* 1 clove garlic minced
+* 1/2 tsp red pepper flakes
+* 2 tbsp Worcestershire sauce
+* 1.9 oz onion soup mix I used Knorr, 55g pkg
+* 1 cup beef broth
+* 2 cups frozen veggies I used mix of peas, carrots, green beans and corn
 
 ### For Mashed Potatoes
 
-6 large potatoes peeled and cut into cubes
-4 tbsp butter softened
-2/3 cup milk
-1/4 cup Parmesan cheese
-1/2 tsp salt or to taste
-1/2 tsp white pepper or to taste
-1 tbsp parsley fresh, for garnish
+* 6 large potatoes peeled and cut into cubes
+* 4 tbsp butter softened
+* 2/3 cup milk
+* 1/4 cup Parmesan cheese
+* 1/2 tsp salt or to taste
+* 1/2 tsp white pepper or to taste
+* 1 tbsp parsley fresh, for garnish
 
 ## Instructions
 
@@ -46,17 +46,13 @@ until golden brown on top.
 8. Garnish with more parsley and pepper and serve warm.
 
 ## Recipe Notes
-How do I store leftovers: Refrigerate leftovers within 2 hours of cooking, cover the pie with
-plastic wrap and refrigerate for up to 3 days.
-Can I freeze this: Yes you can! After baking, let the skillet cool to room temperature. Transfer
-the shepherd's pie to an airtight container and place in the freezer for up to 2 months. You can
-also cover the skillet tightly with foil, or plastic wrap, just make sure it's tightly covered.
-Can I use store bought mashed potatoes: Yes, you can. Store bought mashed potatoes can be
-used or leftover mashed potatoes.
-Can I use fresh veggies: Yes, of course. I used frozen veggies to save time, but feel free to use
-fresh veggies, such as carrots, peas and corn.
-I don't have onion soup mix, what can I use instead: You can make your own onion soup mix
-by combining: 3 tbsp minced onion flakes, 2 tbsp beef bouillon powder, 1/2 tsp onion powder, 1/4
-tsp parsley flakes, 1/8 tsp ground celery seeds, 1/2 tsp sweet paprika, salt and pepper to taste.
-Please keep in mind that nutritional information is a rough estimate and can vary greatly based on
-products used.
+
+__How do I store leftovers?__ Refrigerate leftovers within 2 hours of cooking, cover the pie with plastic wrap and refrigerate for up to 3 days.
+
+__Can I freeze this?__ Yes you can! After baking, let the skillet cool to room temperature. Transfer the shepherd's pie to an airtight container and place in the freezer for up to 2 months. You can also cover the skillet tightly with foil, or plastic wrap, just make sure it's tightly covered.
+
+__Can I use store bought mashed potatoes?__ Yes, you can. Store bought mashed potatoes can be used or leftover mashed potatoes.
+
+__Can I use fresh veggies?__ Yes, of course. I used frozen veggies to save time, but feel free to use fresh veggies, such as carrots, peas and corn.
+
+__I don't have onion soup mix, what can I use instead?__ You can make your own onion soup mix by combining: 3 tbsp minced onion flakes, 2 tbsp beef bouillon powder, 1/2 tsp onion powder, 1/4 tsp parsley flakes, 1/8 tsp ground celery seeds, 1/2 tsp sweet paprika, salt and pepper to taste.
