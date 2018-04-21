@@ -1,13 +1,11 @@
 # Dan-Dan Noodles
 
-These Dan-Dan Noodles are the real deal. Easy, inexpensive, and better than ordering out. These noodles are healthy and taste extraordinary.
-
 Serves: 4-6
 
 ## Ingredients
 
 * 3 skinless/boneless chicken breasts, cooked and minced (rotisserie works too)
-* 8- oz dried fettuccine or linguine noodles
+* 8 oz dried fettuccine or linguine noodles
 * 2 TB Asian sesame oil (brown and highly aromatic, found in Asian aisles)
 * 2 TB cooking oil
 * 4 cloves minced garlic
@@ -28,5 +26,3 @@ Serves: 4-6
 4. Once sauce has thickened, add the minced/cooked chicken and simmer in the sauce for about 5 minutes.
 5. If noodles have cooled too much, warm it up in microwave. Toss noodles with desired amount of chicken/sauce mixture, or just toss it all in! Toss in julienned cucumber to combine.
 6. Divide onto serving plates or bowls. Garnish with green onions and nuts, if desired.
-7. Leftover noodles should be wrapped tightly and chilled. Just heat up in microwave when ready for leftovers!
-8. NOTE: I use regular soy sauce and chicken broth, but if you're sodium conscious, feel free to use low sodium items.
