@@ -9,3 +9,5 @@
 [Goulash](goulash.md)
 
 [Jambalaya](jambalaya.md)
+
+[Shepherd's Pie](shepherd-pie.md)
