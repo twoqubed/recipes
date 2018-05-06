@@ -6,17 +6,17 @@ Serves: 4-6
 
 * 3 skinless/boneless chicken breasts, cooked and minced (rotisserie works too)
 * 8 oz dried fettuccine or linguine noodles
-* 2 TB Asian sesame oil (brown and highly aromatic, found in Asian aisles)
-* 2 TB cooking oil
+* 2 tbsp Asian sesame oil (brown and highly aromatic, found in Asian aisles)
+* 2 tbsp cooking oil
 * 4 cloves minced garlic
-* 3⁄4 cup regular soy sauce
+* 3/4 cup regular soy sauce
 * 1 1/2 cup good chicken broth
 * 1/3 cup packed brown sugar
 * 1 tsp Sriracha (Asian hot sauce, found in Asian aisles)
 * 6 tsp cornstarch, dissolved in 1⁄2 cup chicken broth
 * 1 cucumber, peeled and julienned
 * 1/2 cup chopped peanuts or cashews for topping
-* chopped green onions for garnish
+* Chopped green onions for garnish
 
 ## Directions
 
