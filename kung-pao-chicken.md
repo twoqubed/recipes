@@ -19,6 +19,4 @@
 
 ### Other
 
-
-
 ## Instructions
