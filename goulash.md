@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-* 1 pound of beef
-* ½ onion
+* 1 pound of **beef**
+* ½ **onion**
 * 1½ cups of water
-* 1 small can of tomato sauce
-* 1 15oz. can of Rotel
-* 2 cloves of minced garlic
-* Italian seasoning and seasoned salt to taste
-* 1 bay leaf
-* Splash of Worcestershire sause
-* Splash of soy sauce
-* 1 cup _dry_ macaroni
+* 1 small can of **tomato sauce**
+* 1 15oz. can of **Rotel**
+* 2 cloves of minced **garlic**
+* **Italian seasoning** and **seasoned salt** to taste
+* 1 **bay leaf**
+* Splash of **Worcestershire sause**
+* Splash of **soy sauce**
+* 1 cup _dry_ **macaroni**
 
 ## Directions
 
