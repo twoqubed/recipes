@@ -19,5 +19,5 @@
 
 ## Desserts
 
-[Banana Pudding](banana-pudding.md)
-[Rasberry Thumbprint Cookies](rasberry-thumbprint-cookies.md)
+* [Banana Pudding](banana-pudding.md)
+* [Rasberry Thumbprint Cookies](rasberry-thumbprint-cookies.md)
