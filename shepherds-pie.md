@@ -4,7 +4,7 @@
 
 ### For Meat Mixture
 
-* 1 tbsp olive oil
+* 1 tbsp __olive oil__
 * 1 1/4 lb __ground beef__
 * 1/2 tsp __salt__ or to taste
 * 1/2 tsp __pepper__ or to taste
