@@ -5,16 +5,16 @@
 ### For Meat Mixture
 
 * 1 tbsp olive oil
-* 1 1/4 lb ground beef lean
-* 1/2 tsp salt or to taste
-* 1/2 tsp pepper or to taste
-* 1 large onion chopped
-* 1 clove garlic minced
-* 1/2 tsp red pepper flakes
-* 2 tbsp Worcestershire sauce
-* 1.9 oz onion soup mix I used Knorr, 55g pkg
-* 1 cup beef broth
-* 2 cups frozen veggies I used mix of peas, carrots, green beans and corn
+* 1 1/4 lb __ground beef__
+* 1/2 tsp __salt__ or to taste
+* 1/2 tsp __pepper__ or to taste
+* 1 large __onion__ chopped
+* 1 clove __garlic__ minced
+* 1/2 tsp __red pepper flakes__
+* 2 tbsp __Worcestershire sauce__
+* 1.9 oz __onion soup mix__ I used Knorr, 55g pkg
+* 1 cup __beef broth__
+* 2 cups __frozen veggies__ I used mix of peas, carrots, green beans and corn
 
 ### For Mashed Potatoes
 
