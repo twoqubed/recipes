@@ -18,11 +18,11 @@
 
 ## Sauce
 
-2 tablespoons low sodium **soy sauce**
-2 tablespoons **rice vinegar**
-1 tablespoon **chili paste**
-1 **green onion**, thinly sliced
-1 teaspoon **sesame oil**
+* 2 tablespoons low sodium **soy sauce**
+* 2 tablespoons **rice vinegar**
+* 1 tablespoon **chili paste**
+* 1 **green onion**, thinly sliced
+* 1 teaspoon **sesame oil**
 
 # Directions
 
