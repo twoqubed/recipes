@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-1/2 pound bacon or pancetta
-1 onion
-5 cloves garlic
-1/2 cup white wine or chicken stock
-1/2 cup chicken stock
-1/2 bunch parsley, fresh
-2 eggs, whole
-1/2 cup Parmesan cheese
-1/2 pound linguine pasta
-2 tablespoons butter
-1 teaspoon black pepper
+* 1/2 pound bacon or pancetta
+* 1 onion
+* 5 cloves garlic
+* 1/2 cup white wine or chicken stock
+* 1/2 cup chicken stock
+* 1/2 bunch parsley, fresh
+* 2 eggs, whole
+* 1/2 cup Parmesan cheese
+* 1/2 pound linguine pasta
+* 2 tablespoons butter
+* 1 teaspoon black pepper
 
 ## Instructions
 
