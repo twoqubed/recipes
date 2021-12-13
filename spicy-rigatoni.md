@@ -9,7 +9,7 @@
 * 1 tsp __Calabrian chili peppers__ finely chopped
 * 1/2 cup __tomato paste__
 * 1 tbsp __unsalted butter__
-* 1 lb conchiglie (or a pasta of your choice)
+* 1 lb __rigatoni__ (or a pasta of your choice)
 * 1/4 cup __vodka__
 * 2/3 cup __heavy cream__
 * 2/3 cup __parmesan cheese__
