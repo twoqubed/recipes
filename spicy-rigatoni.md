@@ -1,4 +1,4 @@
-# Spicy Rigatoni Vodka
+# Spicy Rigatoni in Vodka Sauce
 
 ## Ingredients
 
