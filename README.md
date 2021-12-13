@@ -6,7 +6,7 @@
 | -- | -- | -- | -- |
 | [Chicken Spaghetti](chicken-spaghetti.md) | [Chili](chili.md) | [Bow Tie Pasta Salad](bow-tie-pasta-salad.md) | [Jambalaya](jambalaya.md) |
 | [Dan Dan Noodles](dan-dan-noodles.md) | [Goulash](goulash.md) | [Pasta Pomodoro](pasta-pomodoro.md) |
-| [Kung Pao Chicken](kung-pao-chicken.md) | [Shepherd's Pie](shepherds-pie.md) | [Spicy Rigatoni](Spicy Rigatoni in Vodka Sauce) 
+| [Kung Pao Chicken](kung-pao-chicken.md) | [Shepherd's Pie](shepherds-pie.md) | [Spicy Rigatoni](spicy-rigatoni.md) 
 | [Tortilla Soup](tortilla-soup.md) | [Taco Ring](taco-ring.md) |
 
 ## Sides
