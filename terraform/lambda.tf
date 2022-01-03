@@ -4,10 +4,10 @@ data "archive_file" "lambda" {
   output_path = "../build/server/lambda.zip"
 }
 
-resource "aws_lambda_function" "test_lambda" {
+resource "aws_lambda_function" "svelte_app" {
   filename      = data.archive_file.lambda.output_path
-  function_name = "RecipeApp"
-  role          = aws_iam_role.recipe_app.arn
+  function_name = "Recipe_SvelteApp"
+  role          = aws_iam_role.lambda.arn
   handler       = "serverless.handler"
   runtime       = "nodejs14.x"
 

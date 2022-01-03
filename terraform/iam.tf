@@ -1,5 +1,46 @@
-resource "aws_iam_role" "recipe_app" {
-  name = "RecipeApp"
+# API Gateway
+
+resource "aws_iam_role" "api_gateway" {
+  name = "RecipeApp_ApiGateway"
+
+  assume_role_policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Action = "sts:AssumeRole"
+        Effect = "Allow"
+        Principal = {
+          Service = "apigateway.amazonaws.com"
+        }
+      }
+    ]
+  })
+}
+
+resource "aws_iam_role_policy" "api_gateway" {
+  name = "policy"
+  role = aws_iam_role.api_gateway.name
+
+  policy = jsonencode({
+    "Version" : "2012-10-17"
+    "Statement" : [
+      {
+        "Effect" : "Allow"
+        "Action" : [
+          "lambda:InvokeFunction"
+        ]
+        "Resource" : [
+          aws_lambda_function.svelte_app.arn
+        ]
+      }
+    ]
+  })
+}
+
+# Lambda function
+
+resource "aws_iam_role" "lambda" {
+  name = "RecipeApp_LambdaFunction"
 
   assume_role_policy = jsonencode({
     Version = "2012-10-17"
@@ -15,9 +56,9 @@ resource "aws_iam_role" "recipe_app" {
   })
 }
 
-resource "aws_iam_role_policy" "recipe_app" {
+resource "aws_iam_role_policy" "lambda" {
   name = "policy"
-  role = aws_iam_role.recipe_app.name
+  role = aws_iam_role.lambda.name
 
   policy = jsonencode({
     "Version" : "2012-10-17"
