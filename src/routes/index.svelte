@@ -3,9 +3,9 @@
 		return {
 			props: {
 				recipes: [
-                    {name:'gumbo'},
-                    {name:'jambalaya'}
-                ]
+					{ id: 'gumbo', name: 'Gumbo'},
+					{ id: 'jambalaya', name: 'Jambalaya' }
+				]
 			}
 		};
 	}
@@ -16,10 +16,9 @@
 </script>
 
 <h1>Recipes</h1>
-<p>Here is where we will list recipes</p>
 
 <ul>
 	{#each recipes as recipe}
-		<li>{recipe.name}</li>
+		<li><a href="/recipe/{recipe.id}">{recipe.name}</a></li>
 	{/each}
 </ul>
