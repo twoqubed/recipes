@@ -1,10 +1,10 @@
 export interface RecipeHeader {
-	id: string;
-	name: string;
+  id: string;
+  name: string;
 }
 
 export interface Recipe {
-	id: string;
-	name: string;
-	ingredients: string[]
+  id: string;
+  name: string;
+  ingredients: string[];
 }
