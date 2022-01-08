@@ -9,7 +9,7 @@
 				recipe: json.recipe
 			}
 		};
-	}
+	};
 </script>
 
 <script>
@@ -17,3 +17,9 @@
 </script>
 
 <h1>{recipe.name}</h1>
+
+<ul>
+	{#each recipe.ingredients as ingredient}
+		<li>{ingredient}</li>
+	{/each}
+</ul>

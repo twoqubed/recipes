@@ -1,12 +1,10 @@
-import type { RequestHandler } from '@sveltejs/kit';
+import type { RecipeHeader } from '$lib/types';
+
+import { listRecipes } from '$lib/repository'
 
 // GET /recipes.json
-export const get: RequestHandler = async () => {
-    // this is where we will fetch from the database
-    const recipes = [
-        { id: 'gumbo', name: 'Gumbo' },
-        { id: 'jambalaya', name: 'Jambalaya' }
-    ]
+export const get = async () => {
+    const recipes : RecipeHeader[] = await listRecipes()
     
     return {
         body: {
