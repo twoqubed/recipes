@@ -1,11 +1,12 @@
-<script context="module">
-	export async function load() {
+<script context="module" lang="ts">
+	import type { Load } from '@sveltejs/kit';
+
+	export const load: Load = async ({ fetch }) => {
+		const res = await fetch('/recipes.json');
+		const json = await res.json();
 		return {
 			props: {
-				recipes: [
-					{ id: 'gumbo', name: 'Gumbo'},
-					{ id: 'jambalaya', name: 'Jambalaya' }
-				]
+				recipes: json.recipes
 			}
 		};
 	}
@@ -19,6 +20,6 @@
 
 <ul>
 	{#each recipes as recipe}
-		<li><a href="/recipe/{recipe.id}">{recipe.name}</a></li>
+		<li><a href="/recipes/{recipe.id}">{recipe.name}</a></li>
 	{/each}
 </ul>
