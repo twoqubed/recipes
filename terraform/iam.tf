@@ -78,7 +78,8 @@ resource "aws_iam_role_policy" "lambda" {
           "dynamodb:UpdateItem"
         ]
         "Resource" : [
-          aws_dynamodb_table.recipes.arn
+          aws_dynamodb_table.recipes.arn,
+          "${aws_dynamodb_table.recipes.arn}/index/*"
         ]
       }
     ]
