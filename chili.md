@@ -3,8 +3,7 @@
 ## Ingredients
 
 * 2 lbs **ground beef**
-* 2 15.5 oz * [Bow Tie Pasta Salad](bow-tie-pasta-salad.md)
- (kidney, chili, pinto)
+* 2 15.5 oz **can of beans** (kidney, chili, pinto)
 * 1 28 oz can **diced tomatoes**
 * 2 lg **onions**
 * 2 cloves of **garlic**, minced
