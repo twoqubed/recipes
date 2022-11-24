@@ -3,26 +3,26 @@
 ## Entrees
 
 
-[Chicken Spaghetti](chicken-spaghetti.md)
-[Chili](chili.md)
-[Bow Tie Pasta Salad](bow-tie-pasta-salad.md)
-[Jambalaya](jambalaya.md)
-[Dan Dan Noodles](dan-dan-noodles.md)
-[Goulash](goulash.md)
-[Pasta Pomodoro](pasta-pomodoro.md)
-[Kung Pao Chicken](kung-pao-chicken.md)
-[Shepherd's Pie](shepherds-pie.md)
-[Spicy Rigatoni](spicy-rigatoni.md)
-[Tortilla Soup](tortilla-soup.md)
-[Taco Ring](taco-ring.md)
+* [Bow Tie Pasta Salad](bow-tie-pasta-salad.md)
+* [Chicken Spaghetti](chicken-spaghetti.md)
+* [Chili](chili.md)
+* [Dan Dan Noodles](dan-dan-noodles.md)
+* [Goulash](goulash.md)
+* [Kung Pao Chicken](kung-pao-chicken.md)
+* [Jambalaya](jambalaya.md)
+* [Pasta Pomodoro](pasta-pomodoro.md)
+* [Shepherd's Pie](shepherds-pie.md)
+* [Spicy Rigatoni](spicy-rigatoni.md)
+* [Taco Ring](taco-ring.md)
+* [Tortilla Soup](tortilla-soup.md)
 
 ## Sides
 
-[General's Rice](generals-rice.md)
+* [General's Rice](generals-rice.md)
 
 ## Sauces
 
-[Balsamic Cream Sauce](balsamic-cream-sauce.md)
+* [Balsamic Cream Sauce](balsamic-cream-sauce.md)
 
 ## Desserts
 
