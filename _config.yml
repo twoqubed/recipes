@@ -1,0 +1,28 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - baked-ziti.md
+  - balsamic-cream-sauce.md
+  - banana-pudding.md
+  - bow-tie-pasta-salad.md
+  - chicken-spaghetti.md
+  - chicken-tikka-masala.md
+  - chili.md
+  - dan-dan-noodles.md
+  - garlic-pasta-carbonara.md
+  - generals-rice.md
+  - goulash.md
+  - gumbo.md
+  - jambalaya.md
+  - kung-pao-chicken.md
+  - lettuce-wraps.md
+  - pasta-pomodoro.md
+  - rasberry-thumbprint-cookies.md
+  - shepherds-pie.md
+  - spicy-rigatoni.md
+  - taco-ring.md
+  - tortilla-soup.md
