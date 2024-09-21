@@ -1,6 +1,7 @@
 # Entrees
 
 * [Bow Tie Pasta Salad](bow-tie-pasta-salad.md)
+* [Cajun Pasta](cajun-pasta.md)
 * [Chicken Spaghetti](chicken-spaghetti.md)
 * [Chili](chili.md)
 * [Dan Dan Noodles](dan-dan-noodles.md)
