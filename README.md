@@ -1,7 +1,4 @@
-# Recipes
-
-## Entrees
-
+# Entrees
 
 * [Bow Tie Pasta Salad](bow-tie-pasta-salad.md)
 * [Chicken Spaghetti](chicken-spaghetti.md)
@@ -16,15 +13,15 @@
 * [Taco Ring](taco-ring.md)
 * [Tortilla Soup](tortilla-soup.md)
 
-## Sides
+# Sides
 
 * [General's Rice](generals-rice.md)
 
-## Sauces
+# Sauces
 
 * [Balsamic Cream Sauce](balsamic-cream-sauce.md)
 
-## Desserts
+# Desserts
 
 * [Banana Pudding](banana-pudding.md)
 * [Rasberry Thumbprint Cookies](rasberry-thumbprint-cookies.md)
